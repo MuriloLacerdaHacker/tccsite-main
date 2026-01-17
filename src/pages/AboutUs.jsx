@@ -1,6 +1,6 @@
-import lacerdaImg from "../assets/lacerdaquentao.jpeg";
-import pioImg from "../assets/gabriel.jpeg";
-import jamalImg from "../assets/ygor.jpeg";
+import lacerdaImg from "../assets/lacerdaa.jpeg";
+import pioImg from "../assets/gabrieel.jpeg";
+import jamalImg from "../assets/ygorr.jpeg";
 import marcellaImg from "../assets/marcela.jpeg";
 
 export function AboutUs() {
