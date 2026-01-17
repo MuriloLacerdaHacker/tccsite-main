@@ -13,7 +13,7 @@ export function AboutUs() {
           <img
             src={lacerdaImg}
             alt="Murilo Lacerda"
-            className="w-full h-40 object-cover rounded-lg mb-4"
+            className="w-full h-50 object-cover rounded-lg mb-4"
           />
           <h3 className="font-semibold text-lg mb-2 dark:text-white">
             Murilo Lacerda
@@ -40,7 +40,7 @@ export function AboutUs() {
           <img
             src={pioImg}
             alt="Gabriel Pio"
-            className="w-full h-40 object-cover rounded-lg mb-4"
+            className="w-full h-50 object-cover rounded-lg mb-4"
           />
           <h3 className="font-semibold text-lg mb-2 dark:text-white">
             Gabriel Pio
@@ -67,7 +67,7 @@ export function AboutUs() {
           <img
             src={jamalImg}
             alt="Ygor Queiroz"
-            className="w-full h-40 object-cover rounded-lg mb-4"
+            className="w-full h-50 object-cover rounded-lg mb-4"
           />
           <h3 className="font-semibold text-lg mb-2 dark:text-white">
             Ygor Queiroz
@@ -94,7 +94,7 @@ export function AboutUs() {
           <img
             src={marcellaImg}
             alt="Marcella Caramico"
-            className="w-full h-40 object-cover rounded-lg mb-4"
+            className="w-full h-50 object-cover rounded-lg mb-4"
           />
           <h3 className="font-semibold text-lg mb-2 dark:text-white">
             Marcella Caramico
