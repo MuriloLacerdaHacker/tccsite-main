@@ -1,4 +1,4 @@
-import lacerdaImg from "../assets/lacerdaquentao.jpeg"
+import lacerdaImg from "../assets/lacerda.jpeg"
 import pioImg from "../assets/pio.jpeg"
 import jamalImg from "../assets/jamal.jpeg"
 import marcellaImg from "../assets/marcelamilbeyer.jpeg"
